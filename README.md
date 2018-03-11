@@ -1,0 +1,2 @@
+# Crown Network
+Features are owned by Crown Network, Crown Network is owned by Gregory King. All features are owned by Gregory King and therefore owned by Crown Network and their respected contributions from plugin developers. Crown Network is developed using the Bubble.is platform, bring new light to "drag & drop". Creating easier and unique expereinces for users, speeding up development process.
